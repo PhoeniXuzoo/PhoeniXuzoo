@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhoeniXuzoo
 - 👀 I’m interested in programming
-- 🌱 I’m currently working in Async communication team of Zoom
+- 🌱 I’m currently working at Async communication team of Zoom
 
 <!---
 PhoeniXuzoo/PhoeniXuzoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
